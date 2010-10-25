@@ -60,24 +60,58 @@ In order to start or launch PowerPoint, open the Start menu by left-clicking it 
 
 #### Interface Overview ####
 
+As you can see, like Microsoft Word and Excel, PowerPoint has a title bar, a menu bar, and a few toolbars. In the Standard Toolbar, many of the basic options are the same as in Word and Excel--the same icons to create a new document, to save your work, to open a saved file, and more. Almost everything you can do in PowerPoint can be accessed through these bars, but we'll save most of that for future lectures.  
+
+Today, we're going to be looking at the PowerPoint outliner, the slide viewer, and the main viewer.
 
 *Define "slide" and "slideshow!"*
 
-### Transition to Practical ###
+**For this portion, need access to Windows version of PPT to provide nav instructions, get screenshots, etc.**
 
+TODO: create walkthrough. slideshow is series of "slides" -- where each slide is like a page displayed to the audience.  Main viewer shows one slide and lets you modify it.  Slide viewer shows the ordered slides; you can change the order easily, and flick through the slideshow to manipulate it.  Outliner lets you rapidly create or view the basics of your slideshow without distractions.
 
-## Practice
+## Practice ##
 
-Creating a Blank Presentation
-Outline Mode
-Adding the title to your first slide
-Using Enter/Return to create the second slide
-Using Tab and Shift+Tab to promote/indent items
+Now that we've had a little look around PowerPoint, let's get started using it!  Last class we learned how to outline a formal presentation.  PowerPoint makes turning your outline into a presentation very easy.
+
+Before we start, do you all still have your outlines from last class?
+
+It's better if you use your own, but if you don't have your outline, you can work from this example.
+
+*Copy to board*
+
+**Making Domoda**
+
+ * Introduction
+ * Why make domoda?
+ * Ingredients
+ * Step 1: Pound the groundnuts
+ * Step 2: Add tomato paste
+ * Step 3: Add palm oil
+ * Step 4...N-1
+ * Last step: Eat and share!
+ * Conclusion
+ * Any questions?
+
+Okay, let's put our outline into PowerPoint!
+
+### Creating a Blank Presentation ###
+
+First, we need to create a blank presentation.  You can either click on the File... menu and select New, or, more easily, click the New Document button on the standard toolbar.
+
+TODO: Grab screenshots of these operations.
+
+If a window appears asking you about creating a blank presentation, opening an existing presentation, or using a Wizard, select Blank Presentation.
+
+### Outline Mode                                    ###
+### Adding the title to your first slide            ###
+### Using Enter/Return to create the second slide   ###
+### Using Tab and Shift+Tab to promote/indent items ###
 
 
 
 ## Assessment ##
 
 
-## Conclusion ##
+## Closure ##
 
