@@ -55,16 +55,16 @@ I really like domoda—Mariana Gassama's is very very sweet!  But I don't know h
 
 We'll start by outlining the presentation—that is, dividing it into its biggest parts.  Let's use a simple format that works for most presentations:
 
-* Copy to board *
+*Copy to board*
 
-> Introduction
-> Topic
-> Step 1
-> Step 2
-> Steps....
-> Last Step
-> Conclusion & Closure
-> Questions
+* Introduction  
+* Topic  
+* Step 1  
+* Step 2  
+* Steps....  
+* Last Step  
+* Conclusion & Closure  
+* Questions  
 
 Here, the Introduction is just to introduce yourself as the speaker.  Sometimes the Introduction can also include your main Topic, which is what you're talking about today, but we've saved that for the Topic section.
 
@@ -74,11 +74,40 @@ So, for the Introduction, we don't need to plan very much!  And for the Topic, w
 
 Now, let's talk about the steps!
 
-* Walk the class through outlining steps in making domoda.  Simple version is Get Ingredients, Prepare Ingredients, Cook Domoda, Pour Domoda Over Rice, Eat Domoda, Clean up—but let the students do it!  Maybe you'll discover a family recipe. *
+*Walk the class through outlining steps in making domoda.  Simple version is Get Ingredients, Prepare Ingredients, Cook Domoda, Pour Domoda Over Rice, Eat Domoda, Clean up—but let the students do it!  Maybe you'll discover a family recipe.*
 
 Great!  We've got all the steps.  Now, this second to last point—Conclusion & Closure—is just an opportunity for you to wrap things up for whoever you're presenting to.  An easy way to do this is to summarize what you've just said, and remind your audience why it's important.  
 
+And, lastly, we leave room at the end for questions, so that if your audience is left wondering about anything, you can help them to understand.  It can help if you tell your audience at the beginning that you'll have time for questions at the end, so they won't interrupt you during your presentation.  (Of course, during this class, I want to know if you have questions any time!)
+
+So, if I wanted to tell someone how to make domoda, here's how I'd do it...
+
+*Present using the student-created outline. Take it slow, make it simple!*
 
 ## Practice ##
+
+Now we're going to practice planning and showing presentations.  We don't have enough time for everyone to do this, so let's form groups!
+
+*Divide class into midsize groups.  The plan is for each to plan and present, so judge need for time and the number of groups accordingly—on first class I'm aiming for three groups.*
+
+Now, I want each group to pick a topic and plan a very short presentation.  It can be on anything!  You could use this presentation to talk about how to make benachin, about why your favorite football team is the best (remember, you have to show evidence!), on the best way to crack groundnuts--anything you want.
+
+And, please, let me know if you need any help!
+
+I'll give you about (_a quarter of the remaining time_) to work on this plan.
+
+*Mill about the classroom; guide students as needed.*
+
+*On completion of planning period:*
+
+Okay, I can see you've all done great work on planning your presentations!  Now, I'd like each group to pick a presenter—someone who's going to present to the rest of the class.  Make sure to bring your presentation outline, so you have a guide!
+
+*Take volunteers! Guide each through presenting to the class.*
+
 ## Assessment ##
+
+*Performed as a group.  Observe and guide planners and presenters in above activity.*
+
 ## Closure ##
+
+Good work, and congratulations! When you came in here, some of you had never planned a formal presentation before.  Now, you're all ready to make and give presentations on your own!  Next class, we'll talk about how to use PowerPoint to support your formal presentations.  That means that we'll be building another presentation, so between now and then, I want you all to think of what you want to present to the class.
