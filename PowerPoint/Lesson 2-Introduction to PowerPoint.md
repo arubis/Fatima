@@ -83,9 +83,17 @@ It's better if you use your own, but if you don't have your outline, you can wor
 **Making Domoda**
 
  * Introduction
- * Why make domoda?
+ * Why cook domoda?
  * Ingredients
+   * Groundnuts
+   * Tomato paste
+   * Fish or meat
+   * Vegetables
+   * Palm oil
+   * Rice
  * Step 1: Pound the groundnuts
+   1.  Put groundnuts in mortar
+   2.  Pound with pestle
  * Step 2: Add tomato paste
  * Step 3: Add palm oil
  * Step 4...N-1
@@ -93,7 +101,7 @@ It's better if you use your own, but if you don't have your outline, you can wor
  * Conclusion
  * Any questions?
 
-Okay, let's put our outline into PowerPoint!
+Okay, let's put our outline into PowerPoint!  Remember, we're just working on the outline today.  I know many of you have already started experimenting with including pictures and effects in your slides, but right now we're just going to go over using text.
 
 ### Creating a Blank Presentation ###
 
@@ -103,12 +111,63 @@ TODO: Grab screenshots of these operations.
 
 If a window appears asking you about creating a blank presentation, opening an existing presentation, or using a Wizard, select Blank Presentation.
 
-### Outline Mode                                    ###
-### Adding the title to your first slide            ###
-### Using Enter/Return to create the second slide   ###
-### Using Tab and Shift+Tab to promote/indent items ###
+### Entering Outline Mode ###
 
+Microsoft PowerPoint lets you quickly create a presentation by typing in an outline.  Let's do just that.
 
+*Instruct students to select Outline Mode*
+
+TODO: Figure out how this works in the Windows version; write it up.
+
+### Adding the title to your first slide ###
+
+Now that we're in Outline mode, you can see your first blank slide to the right, in the Main Viewer, and on the left, your blank Outline.  The little grey square to the left of your cursor represents the slide you're working on.  For the first slide, type the title of your presentation.  If you're working from the example on the board, that would be Making Domoda.
+
+So, go ahead and type in your title.  When you're done, don't press enter or return--just leave the slide open while I come around and check your work.
+
+*Mill about; guide students through creating the first slide.*
+
+### Using Enter/Return to create the second (theme/topic) and third (first point/step) slide ###
+
+Great! You've all got your first slide--your Title Slide.  This will work as your Introduction.  
+
+Now, in Outline view, press Enter or Return.  In the Main Viewer you'll see your new, second slide.  On the left, in your Outline view, you'll see a new line labeled 2 with a new grey square--this line is for working with your second slide.
+
+With your cursor at this second line, type the name of your second slide.  If you're using the example on the board, this is Ingredients.  
+
+Now you have two slides.  
+
+Let's make a third.  Press Enter or Return again, and then type the name of your third slide.  If you're using the example on the board, that would be _Ingredients._
+
+With three slides, you have almost enough for a presentation already.
+
+### Adding more information to slides ###
+
+*Concise version: show how to add text via blank box in main viewer and via the outline pane*
+
+So now you're on your third slide.  At the top, in the slide viewer, you can see the title of the slide.  That could be enough to present already, but what if you wanted to add more information to the slide?
+
+Your new slide will have a box in the Main Viewer that says Click To Add Text.  And you can do just that!  Click in the box that says Click To Add Text, and add more information.  If you're using the example on the board, since we're listing ingredients, you'd want to type _Groundnuts._ If you press return, you'll get a new line to add more information.
+
+Now, look back in the Outline.  Do you see the text you just added?  It also appears in the outline, just like we created on paper last class.
+
+If you click back into the Outline, you can also add more information there.
+
+Let's do that.  Go back to the Outline viewer, and place your cursor at the end of the last information you added to the third slide.
+
+*Wait for students to catch up a bit.*
+
+Okay, now that you're at the last line, press Return.  That gives you a new line on the same slide.  Since we already have our first additional line typed in -- "_groundnuts_" -- let's here type in _Tomato Paste_.
+
+When you've done that, go ahead and add any additional information you'd like for this slide, like "Fish or Meat," "Vegetables," and more.
+
+*Mill about and check students work.*
+
+Now, let's add another slide to the presentation.  You can use the New Slide button, but let's try something trickier.  In Outline mode, press Return or Enter from the last line.  You get a new line in the current slide -- which isn't what we want, is it? 
+
+### Adding additional slides to complete presentation ###
+
+### Saving your presentation to a file ###
 
 ## Assessment ##
 
