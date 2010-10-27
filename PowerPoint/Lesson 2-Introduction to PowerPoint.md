@@ -64,11 +64,15 @@ As you can see, like Microsoft Word and Excel, PowerPoint has a title bar, a men
 
 Today, we're going to be looking at the PowerPoint outliner, the slide viewer, and the main viewer.
 
-*Define "slide" and "slideshow!"*
+*Define "slide([^slide])" and "slideshow([^slideshow])!"*
 
 **For this portion, need access to Windows version of PPT to provide nav instructions, get screenshots, etc.**
 
-TODO: create walkthrough. slideshow is series of "slides" -- where each slide is like a page displayed to the audience.  Main viewer shows one slide and lets you modify it.  Slide viewer shows the ordered slides; you can change the order easily, and flick through the slideshow to manipulate it.  Outliner lets you rapidly create or view the basics of your slideshow without distractions.
+*Walk students through changing between Outline and Slides view, and demonstrate that the Main view to the right remains.  Have students leave view set to Outline.*
+
+[^slide]: Slide: One single screen or page of a presentation showing a collection of text, images, and other media.
+
+[^slideshow]: Slideshow: A series or collection of ordered slides.
 
 ## Practice ##
 
@@ -78,7 +82,7 @@ Before we start, do you all still have your outlines from last class?
 
 It's better if you use your own, but if you don't have your outline, you can work from this example.
 
-*Copy to board*
+*Copy to board:*
 
 **Making Domoda**
 
@@ -96,7 +100,7 @@ It's better if you use your own, but if you don't have your outline, you can wor
    2.  Pound with pestle
  * Step 2: Add tomato paste
  * Step 3: Add palm oil
- * Step 4...N-1
+ * Step 4...
  * Last step: Eat and share!
  * Conclusion
  * Any questions?
@@ -107,9 +111,9 @@ Okay, let's put our outline into PowerPoint!  Remember, we're just working on th
 
 First, we need to create a blank presentation.  You can either click on the File... menu and select New, or, more easily, click the New Document button on the standard toolbar.
 
-TODO: Grab screenshots of these operations.
+If a window appears asking you about creating a blank presentation, opening an existing presentation, or using a Wizard, select _Blank Presentation_.
 
-If a window appears asking you about creating a blank presentation, opening an existing presentation, or using a Wizard, select Blank Presentation.
+Also, if a window appears asking you to select a Slide Layout, just click **Cancel**.
 
 ### Entering Outline Mode ###
 
@@ -117,7 +121,7 @@ Microsoft PowerPoint lets you quickly create a presentation by typing in an outl
 
 *Instruct students to select Outline Mode*
 
-TODO: Figure out how this works in the Windows version; write it up.
+NOTE: Outline mode is selected using either the Slides | Outline toggle located **above** the Slides / Outline portion, or using the small icon with three lines located **below** the Slides / Outline portion, depending on your version of PowerPoint.  _Since versions may vary throughout the lab, make sure to check in with students to make sure they follow!_
 
 ### Adding the title to your first slide ###
 
@@ -163,14 +167,66 @@ When you've done that, go ahead and add any additional information you'd like fo
 
 *Mill about and check students work.*
 
-Now, let's add another slide to the presentation.  You can use the New Slide button, but let's try something trickier.  In Outline mode, press Return or Enter from the last line.  You get a new line in the current slide -- which isn't what we want, is it? 
+Now, let's add another slide to the presentation.  You can use the menu bar by going to Insert→New Slide…, but let's try something trickier.  In Outline mode, press Return or Enter from the last line.  You get a new line in the current slide -- which isn't what we want, is it? 
+
+> #### Indenting and Un-Indenting with Shift+Tab ####
+
+In order to change our new line into a new slide, we need to *Un-Indent* it.  And that needs some explanation.
+
+> The PowerPoint outliner can make things in your presentation bigger or smaller, more or less important.  
+> The most important that thing, as far as the Outliner knows, is the title of a slide.
+> To make something less important -- that is, to put it under something more important, like a slide title -- you press **Tab**, the key to the left of Q on your keyboard.  When you press **Tab**, you will see the text under your cursor move to the right, and become smaller.  This is called *Indenting.*
+
+>> You can indent something many times, making it smaller and smaller.
+>> You can have many small things under one larger thing.  
+
+> Why use indenting?
+> > Indented things can add more details to larger ideas.  For example:
+
+> > Why eat domoda?
+> > > * It's healthy!
+> > > > * Groundnuts are a good source of protein
+> > > > * Palm oil is a good source of Vitamin A
+> > > 
+> > > * It's delicious!
+> > > > * The salty-savory taste of groundnuts is great with rice
+> > > > * You can adjust the flavor with hot pepper or Jumboo
+
+> > Just remember, your goal with PowerPoint is to _support_ your presentation.
+> > You don't have to write everything that you'll say!
+
+> You can also tell PowerPoint to make something *more* important.  This is called *Un-Indenting.*  If you want to *Indent* something, you press **Tab**.  If you want to *Un-Indent* something, you press and hold **Shift** and then press **Tab.**  [^notation]
+
+So, to make our new line into a new slide, use **Shift-Tab.**  Please do that now.
+
+*Again, check students work.*
+
+[^notation]: Hereinafter, this action -- holding one or more keys while pressing another -- will be abbreviated as Key-Key-Key.  For example, to hold **Shift** and press **Tab,** the instructions would simply read **Shift-Tab.**
 
 ### Adding additional slides to complete presentation ###
 
+Okay, now you you know how to add a new slide.  Now, using your outline on paper or the example on the board, complete your presentation by adding slides and, when you feel you need to, more information to each slide.
+
+*Help students as needed.  This will likely take until the end of the class period.*
+
 ### Saving your presentation to a file ###
+
+Alright!  Each of you now has a PowerPoint presentation, which means you're ready to share information with others.  For now, though, let's make sure your work is safe.  Do you remember how to save a file to the disk?
+
+*Walk students through saving a file if necessary.*
 
 ## Assessment ##
 
+As this is generally a lab-based activity, assessment can be performed in a general sense by the teacher.  Grasp on the material will be covered in future classes (open lab and presentations).
+
+## Extension Work ##
+
+If the class completes work early, select a group and have one member present while another operates the computer.  Continue in this fashion for each group until complete or time expires.
 
 ## Closure ##
 
+*Congratulate the class! They've just made their first structured PowerPoint presentation.*
+
+Very good!  We'll keep practicing more presenting and planning in future classes.  But right now, you can already plan, outline, and create a formal PowerPoint presentation.  That's a great skill, and one that many people don't have.
+
+Next time, we'll present each of these PowerPoints to the rest of the class, so remember what you're talking about!

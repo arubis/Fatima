@@ -33,7 +33,11 @@ Lessons, Lectures, & Labs:
  4. Adding Media to Powerpoint [get hands dirty, no presenting]
  5. Adding Transitions to Powerpoint [no presenting]
  6. Presenting Media-Rich Powerpoint [get 'em out of their seats!]
- 7. Lab: assign 5-slide presentation & present!
- 8. Integrating Microsoft Word and Excel [word doc, charts, graphs]
- 9. Lab: assign 7-slide MS-integrated presentation & present!
- 10. Summary Class: Putting it all together, where to go from here
+ 7. Intermediate Presentation Skills
+ 	* Grab audience attention
+ 	* Teaching aids
+ 	* Audience participation
+ 8. Lab: assign 5-slide presentation & present!
+ 9. Integrating Microsoft Word and Excel [word doc, charts, graphs]
+ 10. Lab: assign 7-slide MS-integrated presentation & present!
+ 11. Summary Class: Putting it all together, where to go from here
