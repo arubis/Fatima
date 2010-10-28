@@ -9,7 +9,6 @@ Format: 		Complete
 Keywords: 		plan, curriculum, ICT, gambia, powerpoint, fatima
 Language: 		English
 
-
 # Basic Presentation Skills #
 
 ## Abstract ##
@@ -47,11 +46,11 @@ Today, we're going to explore structured presentations, because that's what Powe
 
 ## Lecture ##
 
-Concisely, a presentation is generally just a way to share information: you can use it to report on something you've done, to share ideas, to instruct on how to do something, and many more.  Since I have a plan and am sharing how to formally present, this entire class is a formal presentation!  
+A presentation is just a way to share information: you can use it to report on something you've done, to share ideas, to instruct on how to do something, and many more.  Since I have a plan and am sharing how to formally present, this entire class is a formal presentation!  
 
 Now that we've discussed the difference between informal and formal presentations, let's plan a formal presentation within this class.  
 
-I really like domoda—Mariana Gassama's is very very sweet!  But I don't know how to make it.  So I'll need all of your help!
+I really like domoda—Mariama Gassama's is very very sweet!  But I don't know how to make it.  So I'll need all of your help!
 
 We'll start by outlining the presentation—that is, dividing it into its biggest parts.  Let's use a simple format that works for most presentations:
 
@@ -59,6 +58,7 @@ We'll start by outlining the presentation—that is, dividing it into its bigges
 
 * Introduction  
 * Topic  
+* Background
 * Step 1  
 * Step 2  
 * Steps....  
@@ -66,11 +66,15 @@ We'll start by outlining the presentation—that is, dividing it into its bigges
 * Conclusion & Closure  
 * Questions  
 
-Here, the Introduction is just to introduce yourself as the speaker.  Sometimes the Introduction can also include your main Topic, which is what you're talking about today, but we've saved that for the Topic section.
+Here, the __Introduction__ is just to introduce yourself as the speaker.  Sometimes the __Introduction__ can also include your main Topic, which is what you're talking about today, but we've saved that for the Topic section.
 
-The Topic is, as we've said, what we're talking about today.
+The __Topic__ is, as we've said, what we're talking about today.
 
-So, for the Introduction, we don't need to plan very much!  And for the Topic, we just need to know that we're talking about Making Domoda.  That's our topic: Making Domoda.
+So, for the Introduction, we don't need to plan very much!  And for the Topic, we just need to know that we're talking about Making Domoda.  That's our __Topic__: Making Domoda.
+
+The __Background__ is where you include information the audience needs to know before you get to the main part of your presentation.  Some presentations won't even need a __Background__ section.  For example, in an instructional presentation -- like how to cook domoda -- your __Background__ would be what your audience needs before they start -- like a list of ingredients.
+
+So, that's our __Background:__ _Ingredients._ 
 
 Now, let's talk about the steps!
 
