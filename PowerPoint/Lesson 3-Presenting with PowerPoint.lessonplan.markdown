@@ -10,7 +10,7 @@ Copyright:		2010 Dylan Fitzgerald.
 				http://creativecommons.org/licenses/by-sa/2.5/
 Format:			Complete
 Language:		English
-Keywords:		
+Keywords:		plan, ICT, gambia, powerpoint, fatima, presenting
 
 # Lesson 3-Presenting with PowerPoint #
 
