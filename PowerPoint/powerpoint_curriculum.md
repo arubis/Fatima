@@ -27,17 +27,29 @@ Prerequisites:
 Lessons, Lectures, & Labs:
 --------------------------
 
-1. Basic Presentation Skills [no power needed]
-2. Introduction to Powerpoint [get hands dirty, no presenting]
-3. Presenting with Powerpoint [may span multiple days]
-4. Adding Media to Powerpoint [get hands dirty, no presenting]
-5. Adding Transitions to Powerpoint [no presenting]
-6. Presenting Media-Rich Powerpoint [get 'em out of their seats!]
-7. Intermediate Presentation Skills
+1. [Basic Presentation Skills][]		[no power needed]  
+2. [Introduction to Powerpoint][]		[get hands dirty, no presenting]
+3. [Presenting with Powerpoint][]		[may span multiple days]
+4. [Adding Media to Powerpoint][]		[get hands dirty, no presenting]
+5. [Adding Transitions to Powerpoint][]	[no presenting]
+6. [Presenting Media-Rich Powerpoint][]	[get 'em out of their seats!]
+7. [Intermediate Presentation Skills][]
 	* Grab audience attention
 	* Teaching aids
 	* Audience participation
-8. Lab: assign 5-slide presentation & present!
-9. Integrating Microsoft Word and Excel [word doc, charts, graphs]
-10. Lab: assign 7-slide MS-integrated presentation & present!
-11. Summary Class: Putting it all together, where to go from here
+8. **Lab:** [assign 5-slide presentation & present!][]
+9. [Integrating Microsoft Word and Excel][]	[word doc, charts, graphs]
+10. **Lab:** [assign 7-slide MS-integrated presentation & present!][]
+11. __Summary Class__: [Putting it all together, where to go from here][]
+
+[Basic Presentation Skills]: Lesson_1-Basic_Presenting.html
+[Introduction to Powerpoint]: Lesson_2-Introduction_to_PowerPoint.html
+[Presenting with Powerpoint]: Lesson_3-Presenting_with_PowerPoint.html
+[Adding Media to Powerpoint]: Lesson_4-Adding_Media_to_PowerPoint.html
+[Adding Transitions to Powerpoint]: Lesson_5-Adding_Transitions_to_PowerPoint.html
+[Presenting Media-Rich Powerpoint]: Lesson_6-Presenting_Media-Rich_PowerPoint.html
+[Intermediate Presentation Skills]: Lesson_7-Intermediate_Presentation_Skills.html
+[assign 5-slide presentation & present!]: Lesson_8-Lab-5-Slide_Presentation.html
+[Integrating Microsoft Word and Excel]: Lesson_9-Integrating_Word_and_Excel.html
+[assign 7-slide MS-integrated presentation & present!]: Lesson_10-Lab-7-Slide_Presentation.html
+[Putting it all together, where to go from here]: Lesson_11-Summary.html
