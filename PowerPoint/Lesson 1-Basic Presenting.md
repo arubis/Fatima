@@ -1,4 +1,4 @@
-Title:			Basic Presentation Skills  
+Title:			Lesson 1-Basic Presentation Skills  
 				Grade 12    
 Author:			Dylan Fitzgerald  
 Affiliation: 	Fatima Senior Secondary School of Bwiam, The Gambia  
@@ -9,7 +9,7 @@ Format: 		Complete
 Keywords: 		plan, curriculum, ICT, gambia, powerpoint, fatima
 Language: 		English
 
-# Basic Presentation Skills #
+# Lesson 1-Basic Presentation Skills #
 
 ## Abstract ##
 

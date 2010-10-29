@@ -1,4 +1,4 @@
-Title:			Introduction to PowerPoint  
+Title:			Lesson 2-Introduction to PowerPoint  
 				Grade 12  
 Author:			Dylan Fitzgerald  
 Affiliation:	Fatima Senior Secondary School of Bwiam, The Gambia  
@@ -8,7 +8,7 @@ Date:			October 25, 2010
 Keywords:		plan, curriculum, ICT, gambia, powerpoint, fatima
 Language:		English
 
-# Introduction to PowerPoint #
+# Lesson 2-Introduction to PowerPoint #
 
 ## Abstract ##
 
