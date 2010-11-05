@@ -30,7 +30,7 @@ On completion of this lesson, students will:
 * Blackboard & Chalk
 * Dedicated computer for teaching purposes with PowerPoint installed
 * Sufficient computers for students
-* Prepared PowerPoint presentation [Media Presentation][]
+* Prepared PowerPoint presentation: [Media Presentation][]
 
 [Media Presentation]: Lesson_4_Examples/Media_Presentation.ppt
 
@@ -44,36 +44,36 @@ When we talk about PowerPoint, we describe it as "presentation software," but th
 
 *Prompt class for answers; they may already know! Otherwise...*
 
-> **Terminology: Multimedia**  
-> _Multimedia_ comes from two words: _multi-_ and _media._
-> Let's take this apart.  Can you think of other words in English that start
-> with _multi-_?
-> > *Examples*:  
-> > Multiple (like "multiple choice")  
-> > Multicultural  
-> > Multimillionaire  
-> > Multiplication ("to make many")  
-> 
-> 
-> What's in common here?  In every case, _multi-_ means "many."
-> Something that is "multicultural" is made from many cultures.
-> A "multimillionaire" is so rich he has many millions.
-> And when you multiply something, you make it many.  
-> 
-> Now, what about _media?_  That's a little more complicated.  
-> 
-> _Media_ is the plural form of "medium," which can mean many things.
-> Here, we're using "medium" to mean "a way or method."
-> For example, if you are reading about science, you are learning using a
-> book; the "medium" is text.  If you tell a friend when the next football
-> match is happening, you're communicating using the "medium" of speech. 
-> 
-> So if "medium" is "a way or method," then _media_ is "ways or methods." 
->   
-> *This is a complicated concept, so spend some time on understanding.*  
-> 
-> Let's put it together: _multi-_ is "many" and _media_ is "ways or methods."  
-> So: **_Multimedia_ means "many ways or methods."**
+### Terminology: Multimedia ###
+
+_Multimedia_ comes from two words: _multi-_ and _media._
+Let's take this apart.  Can you think of other words in English that start
+with _multi-_?
+> *Examples*:  
+> Multiple (like "multiple choice")  
+> Multicultural  
+> Multimillionaire  
+> Multiplication ("to make many")  
+
+What's in common here?  In every case, _multi-_ means "many."
+Something that is "multicultural" is made from many cultures.
+A "multimillionaire" is so rich he has many millions.
+And when you multiply something, you make it many.  
+
+Now, what about _media?_  That's a little more complicated.  
+
+_Media_ is the plural form of "medium," which can mean many things.
+Here, we're using "medium" to mean "a way or method."
+For example, if you are reading about science, you are learning using a
+book; the "medium" is text.  If you tell a friend when the next football
+match is happening, you're communicating using the "medium" of speech. 
+
+So if "medium" is "a way or method," then _media_ is "ways or methods." 
+  
+*This is a complicated concept, so spend some time on understanding.*  
+
+Let's put it together: _multi-_ is "many" and _media_ is "ways or methods."  
+So: **_Multimedia_ means "many ways or methods."**
 
 Now that we know what _multimedia_ means, what is a _multimedia presentation?_ 
 
@@ -81,6 +81,15 @@ Now that we know what _multimedia_ means, what is a _multimedia presentation?_
 
 A _multimedia presentation_ is a presentation using many ways or methods.  Some of these ways or methods -- _media_ -- include text, speech, music, effects, pictures, and video.  PowerPoint is "multimedia presentation software" because it lets you built presentations using many different kinds of _media_.
 
+* * * * *
+
+next steps:
+
+- why use multimedia?
+- what we're doing today: adding clip art, pictures and backgrounds
+- what graphics can do
+  - the good
+  - the bad
 
 
 ## Practical ##
