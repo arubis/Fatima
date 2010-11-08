@@ -141,25 +141,95 @@ When the box is the size you want your picture to be, let go of the mouse button
 
 #### Adding Other Pictures ####
 
+You can also add pictures and graphics from anywhere else on the computer.  This can be especially useful if you have a digital camera or access to the Internet, either of which would allow you to create or find pictures with meanings very close to what you're presenting about.
 
+To add a picture or graphic from outside of Clip Art, use the mouse to select _Insert..._ from the menu bar, drag down to _Picture→,_ then click _From File..._.
+
+![Select Picture... Option][]
+
+Then, use the _Insert Picture_ window that appears to locate the picture you want to add.  For our example, I've found a picture in the _My Documents/My Pictures_ folder.  If you're familiar with where Windows stores pictures, or if you have your own source, you could of course add a picture from there.
+
+![Select Picture File][]
+
+Finally, click the _Insert_ button, and your picture will appear as part of your slide.
+
+![Picture Inserted][]
+
+If you'd like, you can resize or move the picture in the same way we did with the Clip Art.
+
+[Select Picture... Option]:	Lesson_4_Examples/10_Other_Sources.PNG			width=640px
+[Select Picture File]:		Lesson_4_Examples/11_Other_Sources-adding.PNG	width=640px
+[Picture Inserted]:			Lesson_4_Examples/12_Other_Sources-added.PNG	width=640px
+
+#### Adding a Design or Background ####
+
+In addition to pictures or graphics that take part of your slide, you can also add a _Background_ or _Design Template_ that changes the look of your entire slide.  This can be a very fast way to try a new look or feel for your slides, because it is added to all of them at once.
+
+In order to add just a background, go back to the _Insert_ tab on the menu bar, then select _Background..._.
+
+![Background][]
+
+We won't go over this in great detail.
+
+To add a Design Template, use the mouse to access the _Insert_ menu, then click _Apply Design Template..._.
+
+![Apply Design Template][]
+
+This will present you with a list of example Design Templates. Click on each one to preview how your slides will look.
+
+![Select Design][]
+
+When you've found a design you like, either double-click on its name, or select it and click on Insert.  Either way, it will be applied to all of your slides at once.
+
+![Apply Design][]
+
+[Background...]:			Lesson_4_Examples/20_BackgroundDesign.PNG	width=640px
+[Apply Design Template...]:	Lesson_4_Examples/21_Adding_design.PNG		width=640px
+[Select Design]:			Lesson_4_Examples/22_Adding_design.PNG		width=640px
+[Apply Design]:				Lesson_4_Examples/23_Adding_design.PNG		width=640px
 
 ### What Graphics Can Do ###
 
+Using graphics and pictures can be good for your presentation, but they can also make it worse if you use them in a way that is distracting or confusing.  Let's look at some examples.
+
 #### The Good ####
+
+When used well, a picture or graphic is simple, draws attention to what you're trying to say, increases the audience's interest, and does not confuse or distract the audience.
+
+![The Good][]
 
 #### The Bad ####
 
+When used poorly, though, pictures or graphics can ruin a slide.  If there are too many images, or if they are not related to what you're saying, or if they cover your text or otherwise make it difficult to read, then pictures can do more harm than good.  
 
+So be careful!
+
+![The Bad][]
+
+The same applies for Design Templates, by the way: while they often add color and interest to your slide, it's very easy to make them distracting, which makes them a problem.
+
+![The Ugly][]
+
+[The Good]: Lesson_4_Examples/08_Graphics_Can-good.PNG	width=640px
+[The Bad]:	Lesson_4_Examples/09_Graphics_Can-bad.PNG	width=640px
+[The Ugly]:	Lesson_4_Examples/24_distracting_design.PNG	width=640px
 
 ## Practical ##
 
+_Depending on time constraints, this may be split out into an additional lesson/lab period and combined with presenting._
+
+Now that we've discussed how to add graphics, pictures, backgrounds, and designs to our presentations, it's time for all of you to add graphics and pictures to your own presentations!  You can either use the presentation files you've been working with in class up to now, or create a new one if you're more comfortable with that.
+
+_Note that this is one of the last times we'll let students use this initial presentation; it's getting a little tired.  Next class we'll add Transitions, the class following students will present, and then we start fresh with new presentation files._
 
 ## Assessment ##
 
+There will not be enough time in this lesson for students to present, so metered assessment will wait for a future lesson.  In the meantime, one-on-one instruction while students are working on the Practical aspect of the lesson can help the instructor ascertain the student body's general understanding.
 
 ## Closure ##
 
+PowerPoint is a powerful program that lets you use many different ways -- that is, _multimedia_ -- to present your ideas.  Graphics, pictures, and design templates are all great ways to grab your audience's interest and make your points more clear.  
 
 ## Extension Work ##
 
-
+As this lecture concludes with a lab portion, extension work should not be necessary.
