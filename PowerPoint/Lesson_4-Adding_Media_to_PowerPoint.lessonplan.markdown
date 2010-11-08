@@ -183,8 +183,8 @@ When you've found a design you like, either double-click on its name, or select 
 
 ![Apply Design][]
 
-[Background...]:			Lesson_4_Examples/20_BackgroundDesign.PNG	width=640px
-[Apply Design Template...]:	Lesson_4_Examples/21_Adding_design.PNG		width=640px
+[Background]:				Lesson_4_Examples/20_BackgroundDesign.PNG	width=640px
+[Apply Design Template]:	Lesson_4_Examples/21_Adding_design.PNG		width=640px
 [Select Design]:			Lesson_4_Examples/22_Adding_design.PNG		width=640px
 [Apply Design]:				Lesson_4_Examples/23_Adding_design.PNG		width=640px
 
