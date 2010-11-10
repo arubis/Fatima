@@ -171,7 +171,9 @@ In order to add just a background, go back to the _Insert_ tab on the menu bar, 
 
 We won't go over this in great detail.
 
-To add a Design Template, use the mouse to access the _Insert_ menu, then click _Apply Design Template..._.
+To add a Design Template, use the mouse to access the _Insert_ menu, then click _Apply Design Template..._.  
+
+> > **NOTE:** Some versions of PowerPoint instead have a _Slide Design..._ option under _Insert,_ which instead of opening the Design Template window, will open a pane to the right side.  Adjust accordingly.
 
 ![Apply Design Template][]
 
@@ -216,7 +218,7 @@ The same applies for Design Templates, by the way: while they often add color an
 
 ## Practical ##
 
-_Depending on time constraints, this may be split out into an additional lesson/lab period and combined with presenting._
+_Depending on time constraints, this may be split out into an additional lesson/lab period and combined with presenting. 15 minutes of practice with adding pictures should be considered minimally sufficient._
 
 Now that we've discussed how to add graphics, pictures, backgrounds, and designs to our presentations, it's time for all of you to add graphics and pictures to your own presentations!  You can either use the presentation files you've been working with in class up to now, or create a new one if you're more comfortable with that.
 
@@ -224,7 +226,7 @@ _Note that this is one of the last times we'll let students use this initial pre
 
 ## Assessment ##
 
-There will not be enough time in this lesson for students to present, so metered assessment will wait for a future lesson.  In the meantime, one-on-one instruction while students are working on the Practical aspect of the lesson can help the instructor ascertain the student body's general understanding.
+In the meantime, one-on-one instruction while students are working on the Practical aspect of the lesson can help the instructor ascertain the student body's general understanding.
 
 ## Closure ##
 
@@ -232,4 +234,4 @@ PowerPoint is a powerful program that lets you use many different ways -- that i
 
 ## Extension Work ##
 
-As this lecture concludes with a lab portion, extension work should not be necessary.
+Have students practice adding Clip Art, Pictures, and Design Templates for 10-15 minutes.  If sufficient time remains, begin Lesson 5 by introducing Transitions and Custom Animation.  Formal instruction of using Custom Animation can wait for a future lecture be skipped altogether in favor of letting students discover on their own in a lab setting.
