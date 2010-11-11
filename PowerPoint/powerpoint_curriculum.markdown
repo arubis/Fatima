@@ -42,14 +42,14 @@ Lessons, Lectures, & Labs:
 10. **Lab:** [assign 7-slide MS-integrated presentation & present!][]
 11. __Summary Class__: [Putting it all together, where to go from here][]
 
-[Basic Presentation Skills]: Lesson_1-Basic_Presenting.html
-[Introduction to Powerpoint]: Lesson_2-Introduction_to_PowerPoint.html
-[Presenting with Powerpoint]: Lesson_3-Presenting_with_PowerPoint.html
-[Adding Media to Powerpoint]: Lesson_4-Adding_Media_to_PowerPoint.html
-[Adding Transitions to Powerpoint]: Lesson_5-Adding_Transitions_and_Custom_Animation_to_PowerPoint.html
-[Intermediate Presentation Skills]: Lesson_6-Intermediate_Presentation_Skills.html
-[Presenting Media-Rich Powerpoint]: Lesson_7-Presenting_Media-Rich_PowerPoint.html
-[assign 5-slide presentation & present!]: Lesson_8-Lab-5-Slide_Presentation.html
-[Integrating Microsoft Word and Excel]: Lesson_9-Integrating_Word_and_Excel.html
-[assign 7-slide MS-integrated presentation & present!]: Lesson_10-Lab-7-Slide_Presentation.html
-[Putting it all together, where to go from here]: Lesson_11-Summary.html
+[Basic Presentation Skills]: Lesson_1-Basic_Presenting.lessonplan.html
+[Introduction to Powerpoint]: Lesson_2-Introduction_to_PowerPoint.lessonplan.html
+[Presenting with Powerpoint]: Lesson_3-Presenting_with_PowerPoint.lessonplan.html
+[Adding Media to Powerpoint]: Lesson_4-Adding_Media_to_PowerPoint.lessonplan.html
+[Adding Transitions to Powerpoint]: Lesson_5-Adding_Transitions_and_Custom_Animation_to_PowerPoint.lessonplan.html
+[Intermediate Presentation Skills]: Lesson_6-Intermediate_Presentation_Skills.lessonplan.html
+[Presenting Media-Rich Powerpoint]: Lesson_7-Presenting_Media-Rich_PowerPoint.lessonplan.html
+[assign 5-slide presentation & present!]: Lesson_8-Lab-5-Slide_Presentation.lessonplan.html
+[Integrating Microsoft Word and Excel]: Lesson_9-Integrating_Word_and_Excel.lessonplan.html
+[assign 7-slide MS-integrated presentation & present!]: Lesson_10-Lab-7-Slide_Presentation.lessonplan.html
+[Putting it all together, where to go from here]: Lesson_11-Summary.lessonplan.html
