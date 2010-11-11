@@ -42,6 +42,12 @@ Lessons, Lectures, & Labs:
 10. **Lab:** [assign 7-slide MS-integrated presentation & present!][]
 11. __Summary Class__: [Putting it all together, where to go from here][]
 
+Proposed Additions:
+-------------------
+
+* List of Simplified Terms & Definitions
+* Comparing Presenting with Arguing
+
 [Basic Presentation Skills]: Lesson_1-Basic_Presenting.lessonplan.html
 [Introduction to Powerpoint]: Lesson_2-Introduction_to_PowerPoint.lessonplan.html
 [Presenting with Powerpoint]: Lesson_3-Presenting_with_PowerPoint.lessonplan.html
