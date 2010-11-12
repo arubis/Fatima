@@ -42,10 +42,14 @@ Lessons, Lectures, & Labs:
 9. **Lab:** [assign 7-slide MS-integrated presentation & present!][]
 10. __Summary Class__: [Putting it all together, where to go from here][]
 
+Addenda:
+--------
+
+* [Simplified Terms & Definitions][]
+
 Proposed Additions:
 -------------------
 
-* List of Simplified Terms & Definitions
 * Comparing Presenting with Arguing
 
 [Basic Presentation Skills]: Lesson_1-Basic_Presenting.lessonplan.html
@@ -59,3 +63,5 @@ Proposed Additions:
 [Integrating Microsoft Word and Excel]: Lesson_9-Integrating_Word_and_Excel.lessonplan.html
 [assign 7-slide MS-integrated presentation & present!]: Lesson_10-Lab-7-Slide_Presentation.lessonplan.html
 [Putting it all together, where to go from here]: Lesson_11-Summary.lessonplan.html
+
+[Simplified Terms & Definitions]: Addenda/Glossary.html
