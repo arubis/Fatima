@@ -13,7 +13,7 @@ Language:		English
 LaTeX XSLT:		article.xslt
 Keywords:		plan, ICT, gambia, powerpoint, fatima, presenting, media
 
-# Lesson 4-Adding Media to PowerPoint #
+# Lesson 4a-Adding Media to PowerPoint #
 
 ## Abstract ##
 
@@ -33,7 +33,7 @@ On completion of this lesson, students will:
 * Sufficient computers for students
 * Prepared PowerPoint presentation: [Media Presentation][]
 
-[Media Presentation]: Lesson_4_Examples/Media_Presentation.ppt
+[Media Presentation]: Lesson_4a_Examples/Media_Presentation.ppt
 
 ## Introduction ##
 
@@ -130,14 +130,14 @@ When the box is the size you want your picture to be, let go of the mouse button
 
 ![Image Resized][]
 
-[Boring Slide]:		Lesson_4_Examples/00_A_Point.PNG width=640px
-[Add Clipart 1]:	Lesson_4_Examples/01_A_Point.PNG width=640px
-[Add Clipart 2]:	Lesson_4_Examples/02_A_Point.PNG width=640px
-[Clipart Added]:	Lesson_4_Examples/03_A_Point.PNG width=640px
+[Boring Slide]:		Lesson_4a_Examples/00_A_Point.PNG width=640px
+[Add Clipart 1]:	Lesson_4a_Examples/01_A_Point.PNG width=640px
+[Add Clipart 2]:	Lesson_4a_Examples/02_A_Point.PNG width=640px
+[Clipart Added]:	Lesson_4a_Examples/03_A_Point.PNG width=640px
 
-[Select Image]:		Lesson_4_Examples/04_Resizing.PNG width=640px
-[Drag Border]:		Lesson_4_Examples/05_Resizing.PNG width=640px
-[Image Resized]:	Lesson_4_Examples/06_Resizing.PNG width=640px
+[Select Image]:		Lesson_4a_Examples/04_Resizing.PNG width=640px
+[Drag Border]:		Lesson_4a_Examples/05_Resizing.PNG width=640px
+[Image Resized]:	Lesson_4a_Examples/06_Resizing.PNG width=640px
 
 #### Adding Other Pictures ####
 
@@ -157,9 +157,9 @@ Finally, click the _Insert_ button, and your picture will appear as part of your
 
 If you'd like, you can resize or move the picture in the same way we did with the Clip Art.
 
-[Select Picture... Option]:	Lesson_4_Examples/10_Other_Sources.PNG			width=640px
-[Select Picture File]:		Lesson_4_Examples/11_Other_Sources-adding.PNG	width=640px
-[Picture Inserted]:			Lesson_4_Examples/12_Other_Sources-added.PNG	width=640px
+[Select Picture... Option]:	Lesson_4a_Examples/10_Other_Sources.PNG			width=640px
+[Select Picture File]:		Lesson_4a_Examples/11_Other_Sources-adding.PNG	width=640px
+[Picture Inserted]:			Lesson_4a_Examples/12_Other_Sources-added.PNG	width=640px
 
 #### Adding a Design or Background ####
 
@@ -185,10 +185,10 @@ When you've found a design you like, either double-click on its name, or select 
 
 ![Apply Design][]
 
-[Background]:				Lesson_4_Examples/20_BackgroundDesign.PNG	width=640px
-[Apply Design Template]:	Lesson_4_Examples/21_Adding_design.PNG		width=640px
-[Select Design]:			Lesson_4_Examples/22_Adding_design.PNG		width=640px
-[Apply Design]:				Lesson_4_Examples/23_Adding_design.PNG		width=640px
+[Background]:				Lesson_4a_Examples/20_BackgroundDesign.PNG	width=640px
+[Apply Design Template]:	Lesson_4a_Examples/21_Adding_design.PNG		width=640px
+[Select Design]:			Lesson_4a_Examples/22_Adding_design.PNG		width=640px
+[Apply Design]:				Lesson_4a_Examples/23_Adding_design.PNG		width=640px
 
 ### What Graphics Can Do ###
 
@@ -212,9 +212,9 @@ The same applies for Design Templates, by the way: while they often add color an
 
 ![The Ugly][]
 
-[The Good]: Lesson_4_Examples/08_Graphics_Can-good.PNG	width=640px
-[The Bad]:	Lesson_4_Examples/09_Graphics_Can-bad.PNG	width=640px
-[The Ugly]:	Lesson_4_Examples/24_distracting_design.PNG	width=640px
+[The Good]: Lesson_4a_Examples/08_Graphics_Can-good.PNG	width=640px
+[The Bad]:	Lesson_4a_Examples/09_Graphics_Can-bad.PNG	width=640px
+[The Ugly]:	Lesson_4a_Examples/24_distracting_design.PNG	width=640px
 
 ## Practical ##
 

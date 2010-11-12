@@ -1,4 +1,4 @@
-Title:			Lesson 5-Adding Transitions and Custom Animation to PowerPoint  
+Title:			Lesson 4b-Adding Transitions and Custom Animation to PowerPoint  
 Subtitle:		  	
 Author:			Dylan Fitzgerald  
 Affiliation:	Fatima Senior Secondary School of Bwiam, The Gambia
@@ -12,13 +12,15 @@ Format:			Complete
 Language:		English
 Keywords:		plan, ICT, gambia, powerpoint, fatima, presenting, media, transitions
 
-# Lesson 5-Adding Transitions and Custom Animation to PowerPoint #
+# Lesson 4b-Adding Transitions and Custom Animation to PowerPoint #
 
 ## Abstract ##
 
 Now that students have learned to make their presentations into multimedia presentations by adding clip art, photos, and design templates, we'll discuss making presentations more attention-grabbing using transitions and custom animations--and caution against their overuse.
 
 **IMPORTANT NOTE:** _Most of this lesson is contained within an external file, [Working with Transitions and Animation][].PPT.  Make sure to review this file and have it available before the lesson!_
+
+This lesson can be taught immediately following Lesson 4a, preferably within the same double-period.
 
 ## Goals ##
 
@@ -34,7 +36,7 @@ On completion of this lesson, students will:
  * Dedicated computer for instruction
  * Prepared PowerPoint presentation: [Working with Transitions and Animation][]
 
-[Working with Transitions and Animation]: Lesson_5_Examples/Working_with_Transitions_and_Animation.PPT
+[Working with Transitions and Animation]: Lesson_4b_Examples/Working_with_Transitions_and_Animation.PPT
 
 ## Introduction ##
 
