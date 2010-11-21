@@ -14,6 +14,7 @@ Keywords:		plan, ICT, gambia, fatima, presenting, no power, intermediate
 
 # Lesson 5-Intermediate Presentation Skills #
 
+
 To cover:
 
 - Managing audience attention
@@ -77,13 +78,72 @@ On completion of this lesson, students will:
 
 ## Introduction ##
 
-
+You now know how to create a very advanced PowerPoint file, with text, pictures, effects, and transitions.  That means you've got a very powerful set of tools to use on the computer.  But a good presentation is much more than what you show your audience on the computer.  Today we're going to talk about how to make your presentations more powerful, both by planning them in advance and by getting your audience more interested.
 
 ## Lecture ##
 
-to cover:
+### Background Information ###
 
- 1. Adding background information to presentations (NOTE: in future curricula, this should be moved to Intro to Pres Tech)
+Alright, let's go alllllll the way back to our first lesson on presentations.  Can someone tell me the basic outline for a presentation?
+
+_Let the class come up with this.  We're looking for:_
+
+* Introduction
+* Topic / Theme
+* Steps / Topics
+* Last Step / Closing Topic
+* Conclusion
+* Q&A
+
+Good!  That served us well for the first few weeks, but since we've had more practice with presentations, it's time to add more information.
+
+When you present to an audience, you have to make some assumptions about what they already know.  Do you know what an _assumption_ is?  _(Define if necessary)_  For example, when I prepare a lesson for this class, I assume that my audience -- that's you -- knows English, has used a computer before, is familiar with Windows, and has been in all my prior classes.
+
+Sometimes, though, you need to quickly catch your audience up on some basic information that they may or may not know before you get to your main presentation.  This is all the information that sits behind your presentation.  Many of you have already done this -- for example, when presenting about cooking domoda, before jumping right to the steps, you've talked about what domoda is and why it's good.
+
+This part of the presentation is called the _Background._  Usually, it will come after the _Introduction_ and _Topic or Theme_, and before the _Steps or Topics,_ if you're using the outline we've been working with already.
+
+> _BACKGROUND:_ the part of the presentation near the beginning containing 
+> information the audience will need to understand the rest of the presentation.
+
+In future presentations, you'll be expected to include _Background_ information, so make sure to add this to your notes!
+
+### Defining Types of Formal Presentations ###
+
+Up until now, we've divided presentations into two categories, or types: **Informal** and **Formal** -- and said that we're focusing on **Formal** presentations.  That's still the case.  Within **Formal** presentations, though, there's several different general types of presentations.  We've already used them in this class; it's time to give them names.  There are many different ways to build a formal presentation.  Today, we'll go over the three most common ones.
+
+#### Instructional Presentations ####
+
+Our favorite example, presenting _How To Cook Domoda,_ is a set of steps that tell someone how to do something.  It _instructs_ them.  This is an _INSTRUCTIONAL_ presentation.
+
+> _INSTRUCTIONAL_ presentation: used to _instruct_ -- that is, share a series of steps that accomplish a task.
+
+Can you tell me what the outline looks like for an _INSTRUCTIONAL_ presentation?
+
+_Let the class come up with this.  We're looking for:_
+
+* Introduction
+* Background
+* Topic
+* Steps
+* Last Step
+* Conclusion
+* Q&A
+
+Other examples of _INSTRUCTIONAL_ presentations:
+
+* How to Travel to Kombo
+* How to dial a number on your mobile
+* Can you think of more?
+
+#### Informational Presentations ####
+
+#### Persuasive Presentations ####
+
+
+
+
+
  2. Common presentation types
 	 * Instructional
 	 * Informational
