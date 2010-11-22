@@ -95,16 +95,20 @@ _Let the class come up with this.  We're looking for:_
 * Conclusion
 * Q&A
 
-Good!  That served us well for the first few weeks, but since we've had more practice with presentations, it's time to add more information.
+Good!  That served us well for the first few weeks, but since we've had more practice with presentations, it's time to add a little more information.
 
-When you present to an audience, you have to make some assumptions about what they already know.  Do you know what an _assumption_ is?  _(Define if necessary)_  For example, when I prepare a lesson for this class, I assume that my audience -- that's you -- knows English, has used a computer before, is familiar with Windows, and has been in all my prior classes.
+When you present to an audience, you have to make some assumptions about what they already know.  Do you know what an _assumption_ is?  _(Define if necessary)_  For example, when I prepare a lesson for this class, I assume that my audience -- that's you -- knows English, has used a computer before, is familiar with Windows, and has been in all my prior classes.  Information that you _assume_ the audience knows, you do not have to present.  For example, if you were presenting about human bones in biology class, you could _assume_ that, since it's a biology class, your audience knows that humans have bones that support their bodies, so you don't have to tell them that.
 
-Sometimes, though, you need to quickly catch your audience up on some basic information that they may or may not know before you get to your main presentation.  This is all the information that sits behind your presentation.  Many of you have already done this -- for example, when presenting about cooking domoda, before jumping right to the steps, you've talked about what domoda is and why it's good.
+Sometimes, though, you need to quickly catch your audience up on some basic information that they may or may not know before you get to your main presentation.  This is all the information that sits _behind_ your presentation, supporting it.  For some people in the audience, you might be telling them something they already know, but you can't assume that _everyone_ in your audience knows it.  Many of you have already done this -- for example, when presenting about cooking domoda, before jumping right to the steps, you've talked about what domoda is, what ingredients go into it and why it's good.  That's helpful, because while most of your classmates know what goes into domoda, I didn't -- and I'm part of the audience!
 
 This part of the presentation is called the _Background._  Usually, it will come after the _Introduction_ and _Topic or Theme_, and before the _Steps or Topics,_ if you're using the outline we've been working with already.
 
-> _BACKGROUND:_ the part of the presentation near the beginning containing 
-> information the audience will need to understand the rest of the presentation.
+> _BACKGROUND:_ part of the presentation near the beginning that:
+> 
+>  * contains information that you cannot assume the entire audience already knows, and that
+>  * the audience will need to understand the rest of the presentation.
+
+> Normally, the _Background_ will be included after the _Topic_ or _Theme._
 
 In future presentations, you'll be expected to include _Background_ information, so make sure to add this to your notes!
 
@@ -114,7 +118,7 @@ Up until now, we've divided presentations into two categories, or types: **Infor
 
 #### Instructional Presentations ####
 
-Our favorite example, presenting _How To Cook Domoda,_ is a set of steps that tell someone how to do something.  It _instructs_ them.  This is an _INSTRUCTIONAL_ presentation.
+Our favorite example, presenting _How To Cook Domoda,_ is a set of steps in order that tell someone how to do something.  It _instructs_ them.  This is an _INSTRUCTIONAL_ presentation.
 
 > _INSTRUCTIONAL_ presentation: used to _instruct_ -- that is, share a series of steps that accomplish a task.
 
@@ -138,16 +142,62 @@ Other examples of _INSTRUCTIONAL_ presentations:
 
 #### Informational Presentations ####
 
+Some presentations, like a history or a biology lesson, share a set of facts with the audience.  These presentations don't want the audience to do anything but learn: they don't teach _how_ to do something, or _why_ to do something.  They just share information.  These are _INFORMATIONAL_ presentations.
+
+> _INFORMATIONAL_ presentation: used to _inform_ -- that is, share information about 
+> something, not necessarily how or why to do something.
+
+So, if we just wanted to share information, how would we organize it? Can you think of
+what an outline would look like for an _INFORMATIONAL_ presentation?
+
+_Let the class come up with this. We're looking for:_
+
+* title / introduction
+* topic
+* background
+* facts and information in relevant order
+* conclusion
+* Q&A
+
+What do we mean by "relevant order?" Just whatever is the best fit for your presentation.  For example, in a history lesson, you might present events ("facts") chronologically -- that is, in the order of time, from longest ago to most recent.  Or, in a biology lesson about bones, you could talk first about the arms, then the legs, then the bones of the torso, then the head.  Or you could use another order.
+
+You'll have to use your common sense.  Of course, we're happy to help if you need it!
+
 #### Persuasive Presentations ####
 
+Lastly, some presentations aren't meant just to share information or how to do something.  Some presentations are designed to _convince_ you to do something.  The hope of the presenter is that, after an audience has seen their presentation, some or all of the people from that audience will not just remember the information, but take action.  These presentations are meant to _convince,_ or _persuade._ They are _PERSUASIVE_ presentations.
 
+Good _persuasive_ presentations are exciting, because they can _cause real change_.
 
+> _PERSUASIVE_ presentation: used to _persuade_ -- that is, convince someone to _DO_ something.
 
+The outline for a _persuasive_ presentation is still very similar to the other outlines 
+we've used so far.  Can you think of what an outline would look like to convince someone
+to do something?
 
- 2. Common presentation types
-	 * Instructional
-	 * Informational
-	 * Persuasive
+_Let the class start this, but they're likely to need help. We're introducing new terms here._
+
+_We'll start with:_
+
+* Title/Introduction
+* Theme
+* Background
+* (something -- tell class we'll come back to this!)
+* Conclusion (yes, but this also changes a little...)
+* Q & A
+
+Great!  As you can see, a _persuasive_ presentation already has a lot in common with the outlines
+we've used already.  There's just a few things we have to add:
+
+* title/introduction
+* theme
+* background
+* facts, points, or arguments
+* conclusion & call to action
+* Q&A
+
+--- TODO: complete this section & continue!
+
  3. Preparatory techniques -- practice, prep for problems
  4. Audience management
 	 * Eye contact
