@@ -1,4 +1,7 @@
-# Emacs autosaves
+# ignore emacs backups
 *~
-\#*
-.#*
+\#*#
+
+# local/dynamic files
+log/
+tmp/
